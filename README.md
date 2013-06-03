@@ -1,4 +1,3 @@
-
 ### What is this
 This is a Wisdom Garden which you, the Red Admirals, have been entrusted to
 grow.
@@ -28,4 +27,3 @@ collaboration for two reasons:
 Good luck out there!
 
 ![It's dangerous to go alone!](http://www.zeldauniverse.net/wp-content/uploads/2013/03/its-dangerous-to-go-alone-take-this.jpg)
-
